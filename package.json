@@ -1,0 +1,12 @@
+{
+  "name": "text-tcp-debugger",
+  "version": "1.0.0",
+  "description": "TCP server that simulates a Text-driver compatible device",
+  "main": "index.js",
+  "author": "Gašper Dobrovoljc",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
